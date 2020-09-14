@@ -1,20 +1,14 @@
-# minitasks
-One page rooms manager.
+# MiniRooms
 
-(!! preview !!)
+## Tanteremi foglaltság
 
-MiniRooms
+Fejlesztő: [pphome2](https:/github.com/pphome2)
 
-(C) 2019. pphome2
+**Aktuális verzió: -**
+
+**Első megjelenés: 2019.**
 
 
-Mini rooms manager in one webpage.
+A programmal a tantermi foglaltságot lehet nyomon követni.
 
-Mini:
-- No need CMS, only use it.
-- No user managment, only one passcode in config file.
-- No need install, only copy to folder, and add rights for web users.
-
-All data is stored in the "rooms" directory.
-All displayed messages are in the "config.php" file, you just 
-have to change it to that language ...
+A fejlesztés befejezve.
